@@ -1,10 +1,6 @@
 #  DA5401 Assignment 5 — Manifold Visualization
 
-**Author:** V. G. Masilamani (DA25S005)  
-**Course:** DA5401 - Data Analytics  
-**Instructor:** [Add Instructor Name]  
-**Institution:** [Add University/Institute Name]  
-**Date:** [Add Submission Date]
+**Author:** V. G. Masilamani (DA25S005)
 
 ---
 
